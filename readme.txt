@@ -1,1 +1,3 @@
-hola
+cosas aprendidas
+promesas
+formulario con reactive
